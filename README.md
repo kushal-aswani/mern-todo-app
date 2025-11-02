@@ -179,9 +179,3 @@ Access your app at:
 **Kushal Aswani**  
 DevOps & Cloud Security Engineer  
 🔗 [GitHub](https://github.com/kushal-aswani) | [LinkedIn](https://linkedin.com/in/kushalaswani)
-
----
-
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
